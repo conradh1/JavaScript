@@ -1,1 +1,2 @@
 # hackerrankJava
+# JavaScript Hacks
